@@ -2,7 +2,7 @@
 
 ## Event Details
 
-Prior to the main conference, [useR! 2020](https://user2020.r-project.org/) will feature a dedicated developer day with a focus on open source spatial software as a part of the conference's Geospatial Track. Space will be provided on the Monday before the conference for those in the R community to work together in person on spatial packages. The event will be hosted at Geosaurus Rex, St. Louis’ premier geospatial innovation incubator.
+Prior to the main conference, [useR! 2020](https://user2020.r-project.org/) will feature a dedicated developer day with a focus on open source spatial R software as a part of the conference's Geospatial Track. Space will be provided on the Monday before the conference for those in the R community to work together in person on spatial packages. The event will be hosted at Geosaurus Rex, St. Louis’ premier geospatial innovation incubator.
 
 - **Location:** Geosaurus, [T-REX](http://www.downtowntrex.org/), 911 Washington Ave Suite 500, St. Louis, MO 63101
 - **Date**: Monday, July 6, 2020, 9am-5pm
