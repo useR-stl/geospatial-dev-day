@@ -20,7 +20,12 @@ We'd like your input on:
 - What types of work you'd like to get done
 - How to indicate that something is suitable for contribution
 
-We also are looking for spatial R package authors to **tag and identify discrete issues** that can be worked on during the event, as well as to support with merging/providing feedback on contributions as needed. More details about how to do so will be included shortly. 
+We also are looking for spatial R package authors to **tag and identify discrete issues** that can be worked on during the event, as well as to support with merging/providing feedback on contributions as needed. 
+
+### How to tag issues for this event
+
+Package authors: Please include the "rspatial-dev-day" tag on issues that you wish to include in Geospatial Dev Day. 
+- [Current issues tagged rspatial-dev-day](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22rspatial-dev-day%22)
 
 ## Questions?
 
